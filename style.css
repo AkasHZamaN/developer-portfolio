@@ -55,12 +55,12 @@ h2{
 }
 #item-1{
     border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);
+    border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
 }
 #item-2{
     border-left: 7px solid;
-    border-image: linear-gradient(purple, tomato);
+    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
 footer {
